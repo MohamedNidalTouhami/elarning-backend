@@ -1,0 +1,9 @@
+[build]
+  functions = "functions"
+  publish = "dist" # ولا المسار اللي فيه الـ frontend ديالك
+:contentReference[oaicite:7]{index=7}
+:contentReference[oaicite:8]{index=8}
+  :contentReference[oaicite:9]{index=9}
+:contentReference[oaicite:10]{index=10}
+:contentReference[oaicite:11]{index=11}
+  :contentReference[oaicite:12]{index=12}
